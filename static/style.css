@@ -8,6 +8,7 @@ body {
     background: url('../static/image/background.jpg') center/cover no-repeat;
     color: white;
     text-align: center;
+    font-size: 1.3rem;
     padding: 100px 20px;
   }
   
